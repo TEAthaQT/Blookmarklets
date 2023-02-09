@@ -1,0 +1,1 @@
+javascript:krazete:console.log(document.body.contentEditable="true"==document.body.contentEditable?%22false%22:%22true%22);
